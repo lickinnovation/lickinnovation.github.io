@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
+- title: About
+  url: /about/
+  excerpt: Who we are
+  image:
+
+- title: Products
+  url: /products/
+  excerpt: What we offer
+  image:
+
+- title: Case Studies
+  url: /work/
+  excerpt: What we do
+  image:
+
+- title: Lick Creative
+  url: http://www.lickcreative.com
   excerpt:
   image:
