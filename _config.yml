@@ -1,19 +1,36 @@
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
+# Site wide configuration
 
-# Setup
-title:            Lick Innovation
-tagline:          Our team blog
-url:              http://lickinnovation.com
-paginate:         1
-baseurl:          /
-author:
-  name:           Oliver Phillips
-  url:            https://twitter.com/wearelick
-  email:          innovation@lickcreative.com
+title:
+description:
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale:
+url:
 
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/gignar/gignar.github.io
+# Jekyll configuration
+
+sass:
+    sass_dir: _sass
+    style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner:
+  name:
+  email:
+  twitter:
+  google:
+    ad-client: 
+    ad-slot: 
+  bio: 
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+disqus-shortname:
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
