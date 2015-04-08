@@ -43,12 +43,12 @@
   &.slide {
     background: $danger-color;
     transform: translateX(0); /* don't slide close button on small screens only */
-    @include media($medium) {
-      transform: translateX(em(-600)); /* reset slide position */
-    }
-    @include media($large) {
-      transform: translateX(em(-900)); /* reset slide position */
-    }
+    /* @include media($medium) {
+      transform: translateX(em(-600)); reset slide position
+    } */
+    /* @include media($large) {
+      transform: translateX(em(-900)); reset slide position
+    } */
   }
 }
 
