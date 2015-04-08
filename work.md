@@ -1,7 +1,7 @@
 ---
 layout: media
 permalink: /work/
-title: "Latest Posts"
+title: "Case Studies"
 share: false
 ---
 
