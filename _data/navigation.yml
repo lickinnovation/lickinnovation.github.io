@@ -15,6 +15,11 @@
   excerpt: What we do
   image:
 
+- title: Blog
+  url: /blog/
+  excerpt: What we write
+  image:
+
 - title: Lick Creative
   url: http://www.lickcreative.com
   excerpt:
