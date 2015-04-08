@@ -6,8 +6,8 @@ image:
   feature: home-feature-tall.jpg
 ---
 {% if page.image.feature %}
-<div class="wrap page-lead" style="background-image:{{ site.url }}/images/{{ page.image.feature }}">
-	<div class="page-lead-content">
+<div class="page-lead" style="background-image:{{ site.url }}/images/{{ page.image.feature }}">
+	<div class="wrap page-lead-content">
 		{% if page.image.credit %}{% include image-credit.html %}{% endif %}
 	</div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
