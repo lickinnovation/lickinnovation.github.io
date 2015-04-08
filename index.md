@@ -14,8 +14,10 @@ image:
 </div><!-- /.page-feature -->
 {% endif %}
 
+<div class="wrap">
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+</div><!-- /.wrap -->
