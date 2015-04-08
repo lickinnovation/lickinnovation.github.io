@@ -3,7 +3,7 @@ layout: default
 permalink: /
 title: "Home"
 image:
-  feature: home-feature-tall.jpg
+  feature: home-feature-bulbs.jpg
 ---
 {% if page.image.feature %}
 
