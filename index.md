@@ -7,9 +7,6 @@ image:
 ---
 {% if page.image.feature %}
 
-<div class="u-darken">
-</div> <!-- /.u-darken -->
-
   <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
 		<div class="wrap page-lead-content">
 		  <h1>Lick Innovations</h1>
