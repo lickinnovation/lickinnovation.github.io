@@ -66,10 +66,10 @@
   text-align: left;
   @include size(100% 100%);
   @include media($small) {
-    width: em(600);
+    width: 40%/*em(600)*/;
   }
   @include media($large) {
-    width: em(900);
+    width: 40%/*em(900)*/;
   }
   transform: translateX(100%);
   transition: $sliding-menu-animation;
