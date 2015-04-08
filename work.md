@@ -2,6 +2,7 @@
 layout: media
 permalink: /work/
 title: "Latest Posts"
+page.share: false
 ---
 
 <div class="tiles">
