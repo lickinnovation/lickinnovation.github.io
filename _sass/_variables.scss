@@ -37,6 +37,7 @@ $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
 $info-color                  	: #3498db;
+$lick-blue                    : #15273c;
 
 $border-color                	: #ddd;
 $link-color                  	: $primary-color;
@@ -81,15 +82,15 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	 : $black;
-$sliding-menu-background 		   : $black;
+$sliding-menu-border-color	 	 : $lick-blue;
+$sliding-menu-background 		   : $lick-blue;
 $sliding-menu-color 	 		     : $white;
-$sliding-menu-background-hover : $black;
+$sliding-menu-background-hover : $lick-blue;
 $sliding-menu-color-hover	 	   : $white;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	     : 30px;
-$transition						         : 0.3s; // increase this to see the transformations in slow-motion
-$sliding-menu-animation        : all 500ms cubic-bezier(.86,.01,.77,.78);
+$transition						         : 0.2s; // increase this to see the transformations in slow-motion
+$sliding-menu-animation        : all 300ms cubic-bezier(.86,.01,.77,.78);
 
 /*
    Badge variables
