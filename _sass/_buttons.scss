@@ -11,6 +11,7 @@
 	padding: 8px 20px;
 	@include font-size(14);
 	font-family: $alt-font;
+	text-transform: uppercase;
 	background-color: $primary-color;
 	color: $white;
 	text-decoration: none;
