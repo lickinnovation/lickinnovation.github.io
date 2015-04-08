@@ -31,14 +31,15 @@ $caption-color                : mix($white, $text-color, 25%);
 
 $base-color                  	: #343434;
 $comp-color                  	: complement($base-color);
-$border-color                	: #ddd;
-$link-color                  	: $primary-color;
 
 $primary-color               	: #f06;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
 $info-color                  	: #3498db;
+
+$border-color                	: #ddd;
+$link-color                  	: $primary-color;
 
 $table-border-color          	: $border-color;
 $table-border                	: 1px solid $table-border-color;
