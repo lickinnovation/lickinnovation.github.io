@@ -32,7 +32,7 @@ $caption-color                : mix($white, $text-color, 25%);
 $base-color                  	: #343434;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
-$link-color                  	: #222;
+$link-color                  	: $primary-color;
 
 $primary-color               	: #f06;
 $success-color               	: #2ecc71;
