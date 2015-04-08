@@ -3,15 +3,14 @@ layout: default
 permalink: /
 title: "Latest Posts"
 image:
-  feature: home-feature.jpg
+  feature: home-feature-tall.jpg
 ---
 {% if page.image.feature %}
-<div class="page-feature">
-	<div class="page-image">
-		<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+<div class="wrap page-lead" style="background-image:{{ site.url }}/images/{{ page.image.feature }}">
+	<div class="page-lead-content">
 		{% if page.image.credit %}{% include image-credit.html %}{% endif %}
-	</div><!-- /.page-image -->
-</div><!-- /.page-feature -->
+	</div><!-- /.page-lead-content -->
+</div><!-- /.page-lead -->
 {% endif %}
 
 <div class="wrap">
