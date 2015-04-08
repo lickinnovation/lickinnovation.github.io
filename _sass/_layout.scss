@@ -183,6 +183,7 @@
 				p{
 					@include font-size(14,no);
 					font-family: $alt-font;
+					text-transform: uppercase;
 					color: lighten($black,60);
 				}
 			}

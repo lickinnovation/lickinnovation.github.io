@@ -79,6 +79,7 @@ blockquote {
   border-left: 6px solid $info-color;
   p {
     font-family: $alt-font;
+		text-transform: uppercase;
     @include font-size(24);
   }
   cite {
