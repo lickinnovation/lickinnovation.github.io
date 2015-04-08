@@ -64,6 +64,7 @@
   visibility: hidden;
   backface-visibility: hidden;
   text-align: left;
+  -webkit-font-smoothing: antialiased; /* renders fonts a little nicer, imo */
   @include size(100% 100%);
   @include media($small) {
     width: 40%/*em(600)*/;
