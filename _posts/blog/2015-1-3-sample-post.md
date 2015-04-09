@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Sample post
+categories: blog
 image:
   feature: 1024x256.gif
   teaser: 400x250.gif
