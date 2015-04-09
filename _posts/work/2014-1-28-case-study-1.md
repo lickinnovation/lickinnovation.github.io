@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Markdown and HTML
+title: Case Study 1
 categories: work
 image:
   feature: 1024x256.gif
