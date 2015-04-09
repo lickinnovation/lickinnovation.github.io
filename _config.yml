@@ -7,6 +7,11 @@ teaser: # 400x250 px default teaser image used in image archive grid
 locale:
 url:
 
+collections:
+  products:
+    output: true
+    permalink: /products/:path/
+
 # Jekyll configuration
 
 sass:
