@@ -23,7 +23,7 @@ image:
   </div>
   <div class="tiles">
   {% for post in site.posts %}
-  	{% include post-grid.html %}
+  	{% include latest-posts-grid.html %}
   {% endfor %}
   </div><!-- /.tiles -->
 </div><!-- /.wrap -->
