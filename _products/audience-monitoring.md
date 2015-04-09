@@ -2,6 +2,7 @@
 layout: media
 title: Audience Monitoring
 categories: products
+share: false
 image:
   feature: 1024x256.gif
   teaser: 400x250.gif
