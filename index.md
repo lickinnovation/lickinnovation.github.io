@@ -21,9 +21,9 @@ image:
   <div class="page-title">
     <h1></h1>
   </div>
-  <div class="tiles">
+  <!-- <div class="tiles"> -->
   {% for post in site.posts %}
-  	{% include post-grid.html %}
+  	{% include latest-posts-grid.html %}
   {% endfor %}
-  </div><!-- /.tiles -->
+  <!-- </div><!-- /.tiles --> -->
 </div><!-- /.wrap -->
