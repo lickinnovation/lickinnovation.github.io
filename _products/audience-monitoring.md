@@ -17,10 +17,6 @@ First Header  | Second Header
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
-Here's an example of an image, which is included using Markdown:
-
-![Geometric pattern with fading gradient](/img/sample_feature_img_2.png)
-
 Highlighting for code in Jekyll is done using Pygments or Rouge. This theme makes use of Pygments by default.
 
 {% highlight js %}
