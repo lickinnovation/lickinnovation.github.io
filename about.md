@@ -1,11 +1,9 @@
 ---
-layout: archive
+layout: default
 permalink: /about/
 title: "Latest Posts"
 ---
-
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+<div class="wrap">
+	<h1>Who we are</h1>
+	<p>We are Lick Innovation, the new digital and technology team from <a href="http://www.lickcreative.com">Lick Creative</a></p>
+</div>

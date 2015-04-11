@@ -8,27 +8,15 @@ image:
   teaser: 400x250.gif
 ---
 
-Jeykll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
+Return on investment for point of sale has always been difficult to measure. This is why we like to install our audience monitoring set up on POS in key locations.
 
-Tables have also been extended from Markdown:
+It consists of a discreet sensor connected to a mini-PC. The unit analyses passersby, recording:
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+- how many people are in the vicinity
+- the proportion that look at the POS
+- how long they look at it for
+- some non-personal demographic info:
+  - age range
+  - gender
 
-Highlighting for code in Jekyll is done using Pygments or Rouge. This theme makes use of Pygments by default.
-
-{% highlight js %}
-// count to ten
-for (var i = 1; i <= 10; i++) {
-    console.log(i);
-}
-
-// count to twenty
-var j = 0;
-while (j < 20) {
-    j++;
-    console.log(j);
-}
-{% endhighlight %}
+This technology gives you incredible feedback for your in-store campaigns, feedback that was previously limited to exit surveys or online media.
