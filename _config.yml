@@ -50,5 +50,5 @@ gems:
 
 # Site owner
 owner: Lick Creative
-include: ["roost.html", "roost_manifest.json", "roost_worker.js"]
+keep_files: ["roost.html", "roost_manifest.json", "roost_worker.js"]
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
