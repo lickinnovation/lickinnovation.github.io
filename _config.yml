@@ -11,6 +11,30 @@ collections:
   products:
     output: true
 
+defaults:
+  -
+    scope:
+      path:"/_posts/blog/"
+      type:"posts"
+    values:
+      layout:"article"
+      permalink:"/blog/:title"
+
+  -
+    scope:
+      path:"/_posts/work/"
+      type:"posts"
+    values:
+      layout:"article"
+      permalink:"/work/:title"
+
+  -
+    scope:
+      path:""
+      type:"products"
+    values:
+      layout:"media"
+
 # Jekyll configuration
 
 sass:
