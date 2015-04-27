@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: Lick Innovation
-description: The Lick Innovation team blog
+title: "Lick Innovation"
+description: "The Lick Innovation team blog"
 logo: logo-120.png # 120x120 px default image used for Twitter summary card
 teaser: site-teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale:
