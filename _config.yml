@@ -50,7 +50,6 @@ prose:
   metadata:
     _posts:
       - name: "published"
-          field:
             label: "Published"
             element: "checkbox"
             value: "true"
