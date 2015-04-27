@@ -30,7 +30,7 @@ defaults:
 
   -
     scope:
-      path:""
+      path:"/_products"
       type:"products"
     values:
       layout:"media"
@@ -38,40 +38,42 @@ defaults:
 # Prose.io configuration
 
 prose:
+  rooturl: '_posts'
+  siteurl: 'http://prose.github.io/starter/'
+  media: 'images'
+  ignore:
+    - index.md
+    - _config.yml
+    - _layouts
+    - _includes
+    - _data
   metadata:
-    media: "images"
-      _posts:
-        - name: "published"
+    _posts:
+      - name: "published"
           field:
             label: "Published"
             element: "checkbox"
             value: "true"
-        - name: "layout"
-          field:
-            label: "Layout"
-            element: "text"
-            value: "article"
-        - name: "title"
-          field:
-            label: "Title"
-            element: "text"
-          value: "A awesome Headline!"
-    _products:
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
-      - name: "layout"
-        field:
-          label: "Layout"
-          element: "text"
-          value: "media"
       - name: "title"
         field:
-          label: "Title"
           element: "text"
-          value: "A awesome Headline!"
+          label: "title"
+      - name: "layout"
+        field:
+          element: "text"
+          value: "article"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Blog"
+              value: "blog"
+            - name: "Products"
+              value: "products"
+            - name: "Work"
+              value: "work"
 
 # Jekyll configuration
 
