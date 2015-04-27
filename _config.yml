@@ -38,8 +38,8 @@ defaults:
 # Prose.io configuration
 
 prose:
-  media: "images"
-    metadata:
+  metadata:
+    media: "/images"
       _posts:
         - name: "published"
           field:
