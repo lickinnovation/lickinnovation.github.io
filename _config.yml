@@ -1,4 +1,5 @@
 # Site wide configuration
+
 title: "Lick Innovation"
 description: "The Lick Innovation team blog"
 logo: logo-120.png # 120x120 px default image used for Twitter summary card
@@ -36,23 +37,24 @@ defaults:
       
 # Prose.io configuration
 
-media: "images"
-  metadata:
-    _posts:
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
-      - name: "layout"
-        field:
-          label: "Layout"
-          element: "text"
-          value: "article"
-      - name: "title"
-        field:
-          label: "Title"
-          element: "text"
+prose:
+  media: "images"
+    metadata:
+      _posts:
+        - name: "published"
+          field:
+            label: "Published"
+            element: "checkbox"
+            value: "true"
+        - name: "layout"
+          field:
+            label: "Layout"
+            element: "text"
+            value: "article"
+        - name: "title"
+          field:
+            label: "Title"
+            element: "text"
           value: "A awesome Headline!"
     _products:
       - name: "published"
