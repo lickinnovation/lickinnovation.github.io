@@ -39,7 +39,7 @@ defaults:
 
 prose:
   metadata:
-    media: "/images"
+    media: "images"
       _posts:
         - name: "published"
           field:
