@@ -34,6 +34,43 @@ defaults:
       type:"products"
     values:
       layout:"media"
+      
+# Prose.io configuration
+
+media: "images"
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "layout"
+        field:
+          label: "Layout"
+          element: "text"
+          value: "article"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: "A awesome Headline!"
+    _products:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "layout"
+        field:
+          label: "Layout"
+          element: "text"
+          value: "media"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: "A awesome Headline!"
 
 # Jekyll configuration
 
