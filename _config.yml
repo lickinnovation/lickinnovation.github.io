@@ -34,7 +34,7 @@ defaults:
       type:"products"
     values:
       layout:"media"
-      
+
 # Prose.io configuration
 
 prose:
@@ -47,32 +47,32 @@ prose:
     - _layouts
     - _includes
     - _data
-  metadata:
-    _posts:
-      - name: "published"
-            label: "Published"
-            element: "checkbox"
-            value: "true"
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-      - name: "layout"
-        field:
-          element: "text"
-          value: "article"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Blog"
-              value: "blog"
-            - name: "Products"
-              value: "products"
-            - name: "Work"
-              value: "work"
+  # metadata:
+  #   _posts:
+  #     - name: "published"
+  #           label: "Published"
+  #           element: "checkbox"
+  #           value: "true"
+  #     - name: "title"
+  #       field:
+  #         element: "text"
+  #         label: "title"
+  #     - name: "layout"
+  #       field:
+  #         element: "text"
+  #         value: "article"
+  #     - name: "tags"
+  #       field:
+  #         element: "multiselect"
+  #         label: "Add Tags"
+  #         placeholder: "Choose Tags"
+  #         options:
+  #           - name: "Blog"
+  #             value: "blog"
+  #           - name: "Products"
+  #             value: "products"
+  #           - name: "Work"
+  #             value: "work"
 
 # Jekyll configuration
 
