@@ -7,9 +7,6 @@ image:
   feature: 1024x256.gif
   teaser: 400x250.gif
 ---
-
-#Audience Monitoring
-
 Return on investment for point of sale has always been difficult to measure. This is why we like to install our audience monitoring set up on POS in key locations.
 
 ##Overview
