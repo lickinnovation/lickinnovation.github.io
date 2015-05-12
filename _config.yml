@@ -74,6 +74,36 @@ prose:
               value: "products"
             - name: "Work"
               value: "work"
+    _products:
+      - name: "published"
+        field:
+            label: "Published"
+            element: "checkbox"
+            value: "true"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "layout"
+        field:
+          element: "multiselect"
+          options:
+          - name: "Article"
+            value: "article"
+          - name: "Media"
+            value: "media"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Blog"
+              value: "blog"
+            - name: "Products"
+              value: "products"
+            - name: "Work"
+              value: "work"
 
 # Jekyll configuration
 
