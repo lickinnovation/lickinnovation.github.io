@@ -38,8 +38,8 @@ defaults:
 # Prose.io configuration
 
 prose:
-  rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
+  rooturl: '/'
+  siteurl: 'http://lickinnovation.com'
   media: 'images'
   ignore:
     - index.md
