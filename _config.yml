@@ -38,7 +38,7 @@ defaults:
 # Prose.io configuration
 
 prose:
-  rooturl: '/'
+  rooturl: ''
   siteurl: 'http://lickinnovation.com'
   media: 'images'
   ignore:
