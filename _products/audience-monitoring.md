@@ -1,12 +1,17 @@
 ---
-layout: media
+layout: 
+  - media
 title: Audience Monitoring
 categories: products
 share: false
-image:
-  feature: intel-nuc.jpg
-  teaser: intel-nuc-teaser.jpg
+image: 
+  feature: "intel-nuc.jpg"
+  teaser: "intel-nuc-teaser.jpg"
+published: true
+tags: 
+  - products
 ---
+
 Return on investment for point of sale has always been difficult to measure. This is why we like to install our audience monitoring set up on POS in key locations.
 
 ##Overview
