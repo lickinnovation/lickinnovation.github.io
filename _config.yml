@@ -47,6 +47,28 @@ prose:
     - _layouts
     - _includes
     - _data
+    - _sass
+    - _templates
+    - css
+    - fonts
+    - js
+    - .editorconfig
+    - .gitignore
+    - .jshintrc
+    - CNAME
+    - Gemfile
+    - Gemfile.lock
+    - Gruntfile.js
+    - LICENSE
+    - README.md
+    - _octopress.yml
+    - apple-touch-icon-precomposed.png
+    - atom.xml
+    - favicon.ico
+    - package.json
+    - roost.html
+    - roost_manifest.json
+    - roost_worker.js
   metadata:
     _posts:
       - name: "published"
