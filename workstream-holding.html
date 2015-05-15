@@ -38,7 +38,7 @@
             position: fixed;
             bottom: 0;
             right: 0;
-            width: 25%;
+            width: 30%;
         }
         
         button {
@@ -65,7 +65,11 @@
                 }
         
         .aligner {
-              display: flex;
+              display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+              display: -moz-box;         /* OLD - Firefox 19*/
+              display: -ms-flexbox;      /* TWEENER - IE 10 */
+              display: -webkit-flex;     /* NEW - Chrome */
+              display: flex;             /* NEW Spec */
               align-items: center;
               justify-content: center;
               height: 100%;
@@ -76,12 +80,16 @@
         }
         
         .aligner-item {
-            flex: 1;
-            width: 100%;
-            text-align: center;
-            background-color: #ffffff;
-            padding: 20px;
-            border-radius: 3px;
+              -webkit-box-flex: 1;    /* OLD - iOS 6-, Safari 3.1-6 */
+              -moz-box-flex: 1;       /* OLD - Firefox 19- */
+              -webkit-flex: 1;         /* Chrome */
+              -ms-flex: 1;             /* IE 10 */
+              flex: 1;                 /* NEW Spec */
+              width: 100%;
+              text-align: center;
+              background-color: #ffffff;
+              padding: 20px;
+              border-radius: 3px;
               -webkit-box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.3);
               -moz-box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.3);
               box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.3);
