@@ -8,6 +8,8 @@ image:
   feature: 1024x256.gif
   teaser: 400x250.gif
 published: true
+tags: 
+  - products
 ---
 
 NFC tags allow us to leverage the supercomputers we all carry in our pockets to provide information and experiences to consumers.
