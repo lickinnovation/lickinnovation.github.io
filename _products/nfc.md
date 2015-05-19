@@ -1,6 +1,5 @@
 ---
-layout: 
-  - media
+layout: media
 title: NFC
 categories: products
 share: false
