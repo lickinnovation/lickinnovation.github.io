@@ -1,6 +1,5 @@
 ---
-layout: 
-  - media
+layout: media
 title: Audience Monitoring
 categories: products
 share: false
