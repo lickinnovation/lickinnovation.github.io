@@ -29,5 +29,4 @@ image:
 		<p class="post-excerpt" itemprop="description">{{ product.excerpt | strip_html | truncate: 160 }}</p>
   </article><!-- /.tile -->
   {% endfor %}
-  </div><!-- /.tiles -->
 </div><!-- /.wrap -->
