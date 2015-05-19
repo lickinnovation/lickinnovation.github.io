@@ -19,7 +19,7 @@ defaults:
     values:
       layout:"article"
       permalink:"/blog/:title"
-      share: "false"
+      share:"false"
 
   -
     scope:
@@ -28,7 +28,7 @@ defaults:
     values:
       layout:"article"
       permalink:"/work/:title"
-      share: "false"
+      share:"false"
 
   -
     scope:
@@ -36,7 +36,7 @@ defaults:
       type:"products"
     values:
       layout:"media"
-      share: "false"
+      share:"false"
 
 # Prose.io configuration
 
