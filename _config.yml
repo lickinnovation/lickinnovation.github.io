@@ -83,19 +83,7 @@ prose:
         field:
           element: "text"
           label: "title"
-      - name: "layout"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Blog"
-              value: "blog"
-            - name: "Products"
-              value: "products"
-            - name: "Work"
-              value: "work"
-      - name: "tags"
+      - name: "categories"
         field:
           element: "multiselect"
           label: "Add Tags"
@@ -117,15 +105,7 @@ prose:
         field:
           element: "text"
           label: "title"
-      - name: "layout"
-        field:
-          element: "multiselect"
-          options:
-          - name: "Article"
-            value: "article"
-          - name: "Media"
-            value: "media"
-      - name: "tags"
+      - name: "categories"
         field:
           element: "multiselect"
           label: "Add Tags"
