@@ -5,7 +5,7 @@ layout: article
 tags: 
   - blog
 image: 
-  feature: 1024x256.gif
+  feature: terminator-page-feature.jpg
   teaser: 400x250.gif
 ---
 
