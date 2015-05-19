@@ -17,10 +17,11 @@ image:
 </div><!-- /.page-lead -->
 {% endif %}
 
-<div class="archive-wrap">
   <div class="page-title">
     <h1></h1>
   </div>
+<div class="archive-wrap">
+<div class="page-content">
 {% for product in site.products %}
 	<article class="tile" itemscope itemtype="http://schema.org/Article">
 		<a href="{{ site.url }}{{ product.url }}" title="{{ product.title }}" class="post-teaser">{% if product.image.teaser %}<img src="{{ site.url }}/images/{{ product.image.teaser }}" alt="teaser" itemprop="image">
@@ -28,4 +29,5 @@ image:
 		<h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ product.url }}">{{ product.title }}</a></h2>
   </article><!-- /.tile -->
   {% endfor %}
+</div><!-- /.page-wrap -->
 </div><!-- /.archive-wrap -->
