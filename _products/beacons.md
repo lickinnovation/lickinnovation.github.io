@@ -1,5 +1,5 @@
 ---
-layout: ""
+layout: media
 title: Beacons
 categories: products
 share: false
@@ -7,7 +7,6 @@ image:
   feature: "beacon-feature.jpg"
   teaser: "beacon-teaser.jpg"
 published: true
-tags: ""
 ---
 
 Traditionally point of sale has lacked the ability to reach out and grab consumers. Beacons change this, allowing us to contact passersby through their smartphones.
