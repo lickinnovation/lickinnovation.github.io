@@ -5,8 +5,8 @@ layout: article
 tags: 
   - blog
 image: 
-  feature: terminator-page-feature.jpg
-  teaser: terminator-teaser.jpg
+  feature: "terminator-page-feature.jpg"
+  teaser: "terminator-teaser.jpg"
 ---
 
 The 68th Cannes Film Festival got underway last week and, after months of hard work by many at Lick, Terminator Genysis dominated the sea front. We have worked with Paramount for a few years on this activity, but this  campaign was the most varied in terms of different mediums used to help launch the blockbuster.
