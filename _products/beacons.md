@@ -4,8 +4,8 @@ title: Beacons
 categories: products
 share: false
 image:
-  feature: "beacons-feature.jpg"
-  teaser: "beacons-teaser.jpg"
+  feature: 1024x250.gif
+  teaser: 400x250.gif
 ---
 ###Overview
 
