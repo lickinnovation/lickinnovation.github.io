@@ -17,6 +17,7 @@ image:
 </div><!-- /.page-lead -->
 {% endif %}
 
+<div class="wrap">
   <div class="page-title">
     <h1></h1>
   </div>
@@ -31,3 +32,4 @@ image:
   {% endfor %}
 </div><!-- /.page-wrap -->
 </div><!-- /.archive-wrap -->
+</div><!-- /.wrap -->
