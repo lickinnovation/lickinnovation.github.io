@@ -5,8 +5,8 @@ title: NFC
 categories: products
 share: false
 image: 
-  feature: 1024x256.gif
-  teaser: 400x250.gif
+  feature: "nfc-feature.jpg"
+  teaser: "nfc-teaser.jpg"
 published: true
 tags: 
   - products
