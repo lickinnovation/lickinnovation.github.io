@@ -1,16 +1,18 @@
 ---
-layout: media
+layout: ""
 title: Beacons
 categories: products
 share: false
-image:
+image: 
   feature: "beacon-feature.jpg"
   teaser: "beacon-teaser.jpg"
+published: true
+tags: ""
 ---
+
 Traditionally point of sale has lacked the ability to reach out and grab consumers. Beacons change this, allowing us to contact passersby through their smartphones.
 
 ###Overview
-
 Beacons are small Bluetooth emitters that detect nearby smartphones, sending them a location-specific code that activates an app on the phone.
 
 ###Benefits
