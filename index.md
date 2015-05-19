@@ -17,7 +17,7 @@ image:
 </div><!-- /.page-lead -->
 {% endif %}
 
-<div class="wrap">
+<div class="archive-wrap">
   <div class="page-title">
     <h1></h1>
   </div>
@@ -26,7 +26,6 @@ image:
 		<a href="{{ site.url }}{{ product.url }}" title="{{ product.title }}" class="post-teaser">{% if product.image.teaser %}<img src="{{ site.url }}/images/{{ product.image.teaser }}" alt="teaser" itemprop="image">
 			{% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">{% endif %}</a>
 		<h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ product.url }}">{{ product.title }}</a></h2>
-		<p class="post-excerpt" itemprop="description">{{ product.excerpt | strip_html | truncate: 160 }}</p>
   </article><!-- /.tile -->
   {% endfor %}
-</div><!-- /.wrap -->
+</div><!-- /.archive-wrap -->
