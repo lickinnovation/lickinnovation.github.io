@@ -4,9 +4,11 @@ title: Beacons
 categories: products
 share: false
 image:
-  feature: 1024x250.gif
+  feature: 1024x256.gif
   teaser: 400x250.gif
 ---
+Traditionally point of sale has lacked the ability to reach out and grab consumers. 
+
 ###Overview
 
 Beacons are small Bluetooth emitters that connect to smartphones, sending them a location-specific code that activates an app on the phone.
