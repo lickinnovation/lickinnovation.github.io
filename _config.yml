@@ -19,6 +19,7 @@ defaults:
     values:
       layout:"article"
       permalink:"/blog/:title"
+      share: false
 
   -
     scope:
@@ -27,6 +28,7 @@ defaults:
     values:
       layout:"article"
       permalink:"/work/:title"
+      share: false
 
   -
     scope:
@@ -34,6 +36,7 @@ defaults:
       type:"products"
     values:
       layout:"media"
+      share: false
 
 # Prose.io configuration
 
@@ -82,8 +85,16 @@ prose:
           label: "title"
       - name: "layout"
         field:
-          element: "text"
-          value: "article"
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Blog"
+              value: "blog"
+            - name: "Products"
+              value: "products"
+            - name: "Work"
+              value: "work"
       - name: "tags"
         field:
           element: "multiselect"
