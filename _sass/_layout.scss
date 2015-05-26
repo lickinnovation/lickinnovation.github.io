@@ -71,7 +71,7 @@
 			}
 			&:after {
 				width: 0;
-				background: $black;
+				background: $primary-color;
 			}
 			&:active:after,
 			&:hover:after {
@@ -157,7 +157,7 @@
 			// larger font for intro paragraph
 			> p {
 				&:first-child {
-					@include font-size(20,yes,30);
+					@include font-size(24,yes,30);
 				}
 			}
 			// cleaner underlines for links
