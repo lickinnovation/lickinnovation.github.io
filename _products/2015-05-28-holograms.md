@@ -1,6 +1,8 @@
 ---
 published: true
 title: holograms
+categories: 
+  - products
 ---
 
 #HOLOGRAPHIC PROJECTION
