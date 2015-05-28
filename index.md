@@ -23,7 +23,7 @@ image:
   </div>
 <div class="archive-wrap">
 <div class="page-content">
-{% for product in site.products %}
+{% for product in site.products limit:4 %}
 	<article class="tile" itemscope itemtype="http://schema.org/Article">
 		<a href="{{ site.url }}{{ product.url }}" title="{{ product.title }}" class="post-teaser">{% if product.image.teaser %}<img src="{{ site.url }}/images/{{ product.image.teaser }}" alt="teaser" itemprop="image">
 			{% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">{% endif %}</a>
