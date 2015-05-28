@@ -20,6 +20,8 @@ A projection box that is perfect for display in any retail space, that can be vi
 - Built in media player
 - Updatable content
 
+<iframe src="https://player.vimeo.com/video/129118816" width="500" height="281" frameborder="0" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe>
+
 ##BENEFITS
 
 This is a truly eye catching piece of technology, designed to grab the attention in even the most cluttered retail environment.
