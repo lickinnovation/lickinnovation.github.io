@@ -9,8 +9,6 @@ image:
   teaser: hologram-teaser.jpg
 ---
 
-#HOLOGRAPHIC PROJECTION
-
 Increase interest in your product with an attention grabbing holographic projection unit.
 
 ##OVERVIEW
