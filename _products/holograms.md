@@ -1,8 +1,9 @@
 ---
 published: true
+layout: media
 title: holograms
-categories: 
-  - products
+share: false
+categories: products
 image:
   feature: hologram-feature.jpg
   teaser: hologram-teaser.jpg
