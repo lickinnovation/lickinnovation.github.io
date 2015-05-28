@@ -3,6 +3,9 @@ published: true
 title: holograms
 categories: 
   - products
+image:
+  feature: hologram-feature.jpg
+  teaser: hologram-teaser.jpg
 ---
 
 #HOLOGRAPHIC PROJECTION
