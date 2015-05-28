@@ -1,7 +1,7 @@
 ---
 published: true
 layout: media
-title: holograms
+title: Holographic Projection
 share: false
 categories: products
 image:
