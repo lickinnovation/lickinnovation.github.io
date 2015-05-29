@@ -6,7 +6,7 @@ categories: "blog"
 share: false
 ---
 
-New technology could finally show which in-store campaigns are most effective says Bobbie Andrews of Lick Creative
+New technology could finally show which in-store campaigns are most effective says Bobbie Andrews, Director of Innovation and Technology.
 
 In the last decade digital media has begun to change embedded attitudes that used to see conflict occur when design and marketing professionals could not prove the value of their work. CPA, ROI or CPT are all fantastic acronyms to help forge links between accountants and the more creative disciplines.
 
