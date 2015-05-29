@@ -22,4 +22,4 @@ All of the above, and other technologies besides, will provide data to analyse, 
  
 Despite these limitations, the information these technologies generate is invaluable. Relative success is just as useful to understanding how a campaign has performed and how it can be improved next time around. Why did twice as many people tap an NFC chip in store A vs store B? Was it due to a position? Different type of creative? Or was it just that the audience in that area are more inclined to do so? We can set benchmarks for success. We can provide feedback to our clients on how well their campaigned has performed, relative to previous activity. This information can then be used to enhance and improve what comes next. And after all, isn’t this the point of generating data in the first place?
 
-This article was originally published by [Retail Design World](http://www.retaildesignworld.com/news/article/553f553f587ec-opinion-uncovering-the-value-of-in-store-campaigns)
+This article was originally published by [Retail Design World](http://www.mycustomer.com/blogs-post/absolute-vs-comparative-success-retail/169977)
