@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /blog/
-title: "Latest Posts"
+title: "Latest Blog Posts"
 ---
 
 <div class="tiles">
