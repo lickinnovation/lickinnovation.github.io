@@ -2,6 +2,7 @@
 layout: article
 title: Terminator Genisys at Cannes 2015
 categories: blog
+share: false
 image:
   feature: terminator-feature.jpg
   teaser: terminator-teaser.jpg
