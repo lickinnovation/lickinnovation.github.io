@@ -1,6 +1,9 @@
 ---
+layout: article
 published: true
 title: Absolute vs comparative success in retail
+categories: "blog"
+share: false
 ---
 
 We work in an industry where results are demanded instantly. A question I’m often asked is how do we measure success? Or more pertinently, what does success look like? The answer to that is far from simple, especially in the world of retail. 
