@@ -1,4 +1,5 @@
 ---
+layout: article
 published: true
 title: "Uncovering the value of in-store campaigns"
 categories: "blog"
