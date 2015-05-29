@@ -3,16 +3,13 @@ published: true
 layout: article
 share: false
 title: Google Cardboard upgrade pushes virtual reality forward
-categories: 
-  - blog
+categories: blog
 image: 
   teaser: "cardboard-teaser.jpg"
 ---
 
 
 Google just hosted their annual developer conference (I/O). As exciting as new versions of Android are, what's got the Lick Innovation team talking is the upgrade to the Google Cardboard virtual reality headset. We're big fans of Cardboard's cheap VR experience, and the new design only adds to its capabilities.
-![cardboard-teaser.jpg]({{site.baseurl}}/images/cardboard-teaser.jpg)
-
 
 Google also announced a partnership with GoPro to create a 16-camera rig that can shoot 360 degree video. Dubbed '[Jump](https://www.google.com/get/cardboard/jump/)', this rig is specially designed to create 360 video for Cardboard and YouTube's new immersive video player. This should help aspiring VR filmmakers, as until now rigs like these have been slightly awkward custom jobs.
 
