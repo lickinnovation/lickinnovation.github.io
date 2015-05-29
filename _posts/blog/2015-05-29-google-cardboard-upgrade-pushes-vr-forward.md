@@ -1,8 +1,9 @@
 ---
 published: true
+layout: article
+share: false
 title: Google Cardboard upgrade pushes VR forward
-categories: 
-  - blog
+categories: blog
 ---
 
 Google just hosted their annual developer conference (I/O). As exciting as new versions of Android are, what's got the Lick Innovation team talking is the upgrade to the Google Cardboard virtual reality headset. We're big fans of Cardboard's cheap VR experience, and the new design only adds to its capabilities.
