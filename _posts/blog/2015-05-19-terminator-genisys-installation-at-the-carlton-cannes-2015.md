@@ -1,14 +1,11 @@
 ---
-title: "Terminator Genisys Installation at the Carlton -Cannes 2015"
 layout: article
+title: Terminator Genisys at Cannes 2015
 categories: blog
-image: 
-  feature: "terminator-page-feature.jpg"
-  teaser: "terminator-teaser.jpg"
+image:
+  feature: terminator-feature.jpg
+  teaser: terminator-teaser.jpg
 ---
-
-
-
 The 68th Cannes Film Festival got underway last week and, after months of hard work by many at Lick, Terminator Genysis dominated the sea front. We have worked with Paramount for a few years on this activity, but this  campaign was the most varied in terms of different mediums used to help launch the blockbuster.
  
 The front of the Carlton was transformed by a huge 5m x 4m HD digital screen. We used the latest 6mm LED technology to ensure the highest fidelity possible, and were showing exclusive content produced for the event (which we can monitor directly from a webcam hidden in the undergrowth).
