@@ -1,9 +1,7 @@
 ---
-published: true
 title: "Terminator Genisys Installation at the Carlton -Cannes 2015"
 layout: article
-tags: 
-  - blog
+categories: blog
 image: 
   feature: "terminator-page-feature.jpg"
   teaser: "terminator-teaser.jpg"
