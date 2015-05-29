@@ -1,7 +1,7 @@
 ---
 layout: article
 published: true
-title: Absolute vs comparative success in retail
+title: Absolute vs comparative success
 categories: "blog"
 share: false
 ---
