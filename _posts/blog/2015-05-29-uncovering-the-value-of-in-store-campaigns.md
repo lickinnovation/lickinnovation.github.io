@@ -1,7 +1,8 @@
 ---
 published: true
 title: "Uncovering the value of in-store campaigns"
-categories: ""
+categories: "blog"
+share: false
 ---
 
 New technology could finally show which in-store campaigns are most effective says Bobbie Andrews of Lick Creative
